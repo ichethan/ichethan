@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Chethan</h1>
 <h3 align="center">A passionate SDET from Bengaluru</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ichethan&label=Profile%20views&color=0e75b6&style=flat" alt="ichethan" /> </p>
-
 - 📫 How to reach me **brchetan29@gmail.com**
 
-- ⚡ Fun fact **Gamer**
+- ⚡ Fun fact **i'm a Gamer too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
